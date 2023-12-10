@@ -1,0 +1,9 @@
+{
+    "channelID": "voice_channel_id",
+    "token": "bot_token",
+    "mp3File": "support.mp3",
+    "timeout": 1.5,
+    "textChannelID": "channel_id_for_send_alert",
+    "supportRoleID": "support_role_id",
+    "categoryID": "category_id_of_support"
+}
