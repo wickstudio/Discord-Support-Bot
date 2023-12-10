@@ -35,7 +35,7 @@ npm start
 ```
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute. or join [Discord Server](https://discord.gg/wicks)
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page]([link-to-your-issues-page](https://github.com/wickstudio/Discord-Support-Bot/issues)) if you want to contribute. or join [Discord Server](https://discord.gg/wicks)
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
